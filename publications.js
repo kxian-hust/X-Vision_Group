@@ -1,5 +1,43 @@
 window.PUBLICATIONS = [
   {
+    "id": "cadquerydetect-2026",
+    "title": "Robust CAD-Guided Zero-Shot Instance Localization as a Front End for 6-D Pose Measurement",
+    "authors": "Renxiang Dai, Lingwei Chen, Qidi Han, Jianjiang Yao, Ke Xian, and Robert Caiming Qiu.",
+    "venue": "IEEE Transactions on Instrumentation and Measurement (TIM), Vol. 75, Article 5018517, 2026",
+    "year": 2026,
+    "image": "assets/cadquerydetect-2026.svg",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/TIM.2026.3738112"
+      }
+    ],
+    "topic": "3d"
+  },
+  {
+    "id": "ffavatar-2026",
+    "title": "FFAvatar: Feed-Forward 4D Head Avatar Reconstruction from Sparse Portrait Images",
+    "authors": "Jianjiang Yao, Ke Xian, Renxiang Dai, and Robert Caiming Qiu.",
+    "venue": "ECCV 2026",
+    "year": 2026,
+    "image": "assets/ffavatar-2026.svg",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2606.30347"
+      },
+      {
+        "label": "Project",
+        "url": "https://jj-yao.github.io/ffavatar/"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/jj-yao/FFAvatar-Code"
+      }
+    ],
+    "topic": "3d"
+  },
+  {
     "id": "nvds+",
     "title": "NVDS+: Towards Efficient and Versatile Neural Stabilizer for Video Depth Estimation",
     "authors": "Yiran Wang, Min Shi, Jiaqi Li, Chaoyi Hong, Zihao Huang, Juewen Peng, Zhiguo Cao, Jianming Zhang, Ke Xian*, and Guosheng Lin. (*corresponding author)",

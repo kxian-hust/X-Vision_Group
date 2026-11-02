@@ -1,4 +1,4 @@
-// Bilingual site content. Biography updated from the HUST faculty profile on 2026-11-02.
+// Bilingual site content. 2026 publications verified against Crossref and the official FFAvatar project.
 window.TEXT = {
   "zh": {
     "skip": "跳至主要内容",
@@ -24,14 +24,14 @@ window.TEXT = {
     "discuss": "交流研究想法 ↗",
     "pubTitle": "代表性论文",
     "all": "全部",
-    "pubNote": "论文保留原始英文标题；* 表示通讯作者。列表来自旧主页，不代表完整发表记录。",
+    "pubNote": "精选研究成果；* 表示通讯作者。完整发表记录请见 Google Scholar。",
     "peopleTitle": "研究负责人",
     "profileLabel": "华中科技大学",
     "profileRole": "副教授 · 硕士生导师",
     "bio1": "鲜可，华中科技大学电子信息与通信学院副教授、硕士生导师，入选国家海外引才专项（2024）、华中科技大学小米青年学者（2024）。研究方向为计算机视觉与计算摄影，重点关注鲁棒深度估计、景深渲染、图像视频三维生成与编辑、说话数字人及具身智能。",
     "bio2": "本科和博士均毕业于华中科技大学。2016 年 8 月至 2017 年 9 月，在澳大利亚阿德莱德大学沈春华教授团队访学；2019 年 3 月至 6 月，在 Adobe Research 实习；2021 年 10 月至 2023 年 11 月，在新加坡南洋理工大学从事博士后研究，与 Guosheng Lin 教授合作。",
     "newsTitle": "研究动态",
-    "newsNote": "旧站动态存档 · 更新至 2025.04",
+    "newsNote": "2026 年成果与历年动态",
     "moreNews": "查看全部动态 ↓",
     "lessNews": "收起历史动态 ↑",
     "awardTitle": "竞赛与荣誉",
@@ -92,14 +92,14 @@ window.TEXT = {
     "discuss": "Discuss research ideas ↗",
     "pubTitle": "Selected publications",
     "all": "All",
-    "pubNote": "* Corresponding author. Migrated from the original homepage; this is a selected list, not a complete publication record.",
+    "pubNote": "Selected research publications. * Corresponding author. See Google Scholar for the complete publication record.",
     "peopleTitle": "Principal investigator",
     "profileLabel": "Huazhong University of Science and Technology",
     "profileRole": "ASSOCIATE PROFESSOR · MASTER’S SUPERVISOR",
     "bio1": "Ke Xian is an Associate Professor and a supervisor of master’s students at the School of Electronic Information and Communications, Huazhong University of Science and Technology. He was selected for a national overseas talent recruitment program (2024) and the HUST Xiaomi Young Scholar program (2024). His research in computer vision and computational photography focuses on robust depth estimation, depth-of-field rendering, 3D generation and editing of images and videos, talking digital humans, and embodied AI.",
     "bio2": "He received both his bachelor’s and doctoral degrees from Huazhong University of Science and Technology. He visited Prof. Chunhua Shen’s group at the University of Adelaide from August 2016 to September 2017 and interned at Adobe Research from March to June 2019. From October 2021 to November 2023, he conducted postdoctoral research at Nanyang Technological University, working with Prof. Guosheng Lin.",
     "newsTitle": "Research news",
-    "newsNote": "Original site archive · through April 2025",
+    "newsNote": "2026 publications and earlier news",
     "moreNews": "View all news ↓",
     "lessNews": "Show less ↑",
     "awardTitle": "Competitions & recognition",
@@ -139,6 +139,18 @@ window.TEXT = {
 };
 
 window.NEWS = [
+  [
+    "2026",
+    "论文“Robust CAD-Guided Zero-Shot Instance Localization as a Front End for 6-D Pose Measurement”发表于 IEEE TIM，研究面向 6D 位姿测量的 CAD 引导零样本实例定位。",
+    "“Robust CAD-Guided Zero-Shot Instance Localization as a Front End for 6-D Pose Measurement” published in IEEE TIM, on CAD-guided zero-shot instance localization for 6D pose measurement.",
+    "https://doi.org/10.1109/TIM.2026.3738112"
+  ],
+  [
+    "2026",
+    "论文“FFAvatar: Feed-Forward 4D Head Avatar Reconstruction from Sparse Portrait Images”发表于 ECCV 2026，研究从稀疏人像图像前馈重建四维头部数字人。",
+    "“FFAvatar: Feed-Forward 4D Head Avatar Reconstruction from Sparse Portrait Images” published at ECCV 2026, on feed-forward reconstruction of 4D head avatars from sparse portrait images.",
+    "https://jj-yao.github.io/ffavatar/"
+  ],
   [
     "2025.04",
     "一篇新视角合成论文被 IEEE TVCG 接收。",
