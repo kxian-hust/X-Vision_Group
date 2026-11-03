@@ -2,8 +2,8 @@ window.PUBLICATIONS = [
   {
     "id": "cadquerydetect-2026",
     "title": "Robust CAD-Guided Zero-Shot Instance Localization as a Front End for 6-D Pose Measurement",
-    "authors": "Renxiang Dai, Lingwei Chen, Qidi Han, Jianjiang Yao, Ke Xian, and Robert Caiming Qiu.",
-    "venue": "IEEE Transactions on Instrumentation and Measurement (TIM), Vol. 75, Article 5018517, 2026",
+    "authors": "Renxiang Dai, Lingwei Chen, Qidi Han, Jianjiang Yao, Ke Xian*, and Robert Caiming Qiu. (*corresponding author)",
+    "venue": "IEEE Transactions on Instrumentation and Measurement (TIM), Vol. 75, Article 5018517, October 2026",
     "year": 2026,
     "image": "assets/cadquerydetect-2026.svg",
     "links": [
@@ -12,13 +12,14 @@ window.PUBLICATIONS = [
         "url": "https://doi.org/10.1109/TIM.2026.3738112"
       }
     ],
-    "topic": "3d"
+    "topic": "3d",
+    "date": "2026-10"
   },
   {
     "id": "ffavatar-2026",
     "title": "FFAvatar: Feed-Forward 4D Head Avatar Reconstruction from Sparse Portrait Images",
-    "authors": "Jianjiang Yao, Ke Xian, Renxiang Dai, and Robert Caiming Qiu.",
-    "venue": "ECCV 2026",
+    "authors": "Jianjiang Yao, Ke Xian*, Renxiang Dai, and Robert Caiming Qiu. (*corresponding author)",
+    "venue": "ECCV 2026 · October 2026",
     "year": 2026,
     "image": "assets/ffavatar-2026.svg",
     "links": [
@@ -35,7 +36,8 @@ window.PUBLICATIONS = [
         "url": "https://github.com/jj-yao/FFAvatar-Code"
       }
     ],
-    "topic": "3d"
+    "topic": "3d",
+    "date": "2026-10"
   },
   {
     "id": "nvds+",

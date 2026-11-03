@@ -1,4 +1,4 @@
-// Bilingual site content. 2026 publications verified against Crossref and the official FFAvatar project.
+// Bilingual site content. October 2026 dates and corresponding-author roles confirmed by Ke Xian.
 window.TEXT = {
   "zh": {
     "skip": "跳至主要内容",
@@ -66,7 +66,8 @@ window.TEXT = {
     "leadership": "AAAI 2027 领域主席（AC）<br>ICCC 2026 出版主席",
     "membershipLabel": "学术兼职",
     "membership": "中国计算机学会会员<br>中国图象图形学会会员、三维视觉专委会委员<br>华中科技大学人工智能教育教学研究中心委员",
-    "profileSource": "个人介绍、招生与学术服务依据学校教师主页更新。论文与引用统计截至 2025 年 12 月。"
+    "profileSource": "个人介绍、招生与学术服务依据学校教师主页更新。论文与引用统计截至 2025 年 12 月。",
+    "course5": "人工智能概论〈A〉"
   },
   "en": {
     "skip": "Skip to main content",
@@ -134,19 +135,20 @@ window.TEXT = {
     "leadership": "Area Chair, AAAI 2027<br>Publication Chair, ICCC 2026",
     "membershipLabel": "PROFESSIONAL AFFILIATIONS",
     "membership": "Member, China Computer Federation<br>Member, China Society of Image and Graphics; its 3D Vision Technical Committee<br>Member, HUST AI Education and Teaching Research Center",
-    "profileSource": "Biography, recruitment and academic service updated from the HUST faculty page. Publication and citation statistics are as of December 2025."
+    "profileSource": "Biography, recruitment and academic service updated from the HUST faculty page. Publication and citation statistics are as of December 2025.",
+    "course5": "Introduction to Artificial Intelligence (A)"
   }
 };
 
 window.NEWS = [
   [
-    "2026",
+    "2026.10",
     "论文“Robust CAD-Guided Zero-Shot Instance Localization as a Front End for 6-D Pose Measurement”发表于 IEEE TIM，研究面向 6D 位姿测量的 CAD 引导零样本实例定位。",
     "“Robust CAD-Guided Zero-Shot Instance Localization as a Front End for 6-D Pose Measurement” published in IEEE TIM, on CAD-guided zero-shot instance localization for 6D pose measurement.",
     "https://doi.org/10.1109/TIM.2026.3738112"
   ],
   [
-    "2026",
+    "2026.10",
     "论文“FFAvatar: Feed-Forward 4D Head Avatar Reconstruction from Sparse Portrait Images”发表于 ECCV 2026，研究从稀疏人像图像前馈重建四维头部数字人。",
     "“FFAvatar: Feed-Forward 4D Head Avatar Reconstruction from Sparse Portrait Images” published at ECCV 2026, on feed-forward reconstruction of 4D head avatars from sparse portrait images.",
     "https://jj-yao.github.io/ffavatar/"
