@@ -1,4 +1,4 @@
-// Bilingual site content. October 2026 dates and corresponding-author roles confirmed by Ke Xian.
+// Bilingual site content. Publication months checked against publisher and Crossref records.
 window.TEXT = {
   "zh": {
     "skip": "跳至主要内容",
@@ -154,9 +154,21 @@ window.NEWS = [
     "https://jj-yao.github.io/ffavatar/"
   ],
   [
+    "2025.10",
+    "论文“Dynamic View Synthesis From Small Camera Motion Videos”发表于 IEEE TVCG 2025 年 10 月卷期，研究小幅相机运动视频的动态新视角合成。",
+    "“Dynamic View Synthesis From Small Camera Motion Videos” published in the October 2025 issue of IEEE TVCG.",
+    "https://doi.org/10.1109/TVCG.2025.3565642"
+  ],
+  [
     "2025.04",
     "一篇新视角合成论文被 IEEE TVCG 接收。",
     "One paper on novel view synthesis accepted by IEEE TVCG."
+  ],
+  [
+    "2025.04",
+    "论文“PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model”发表于 AAAI 2025 论文集（2025 年 4 月）。",
+    "“PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model” published in the AAAI 2025 proceedings in April 2025.",
+    "https://doi.org/10.1609/aaai.v39i4.32401"
   ],
   [
     "2024.12",
@@ -170,8 +182,9 @@ window.NEWS = [
   ],
   [
     "2024.11",
-    "一篇散景渲染论文被 IEEE T-PAMI 接收。",
-    "One paper on bokeh rendering accepted by IEEE T-PAMI."
+    "论文“BokehMe++: Harmonious Fusion of Classical and Neural Rendering for Versatile Bokeh Creation”于 IEEE T-PAMI 在线发表；正式卷期为 2025 年 3 月。",
+    "“BokehMe++: Harmonious Fusion of Classical and Neural Rendering for Versatile Bokeh Creation” published online in IEEE T-PAMI in November 2024; assigned to the March 2025 issue.",
+    "https://doi.org/10.1109/TPAMI.2024.3501739"
   ],
   [
     "2024.10",

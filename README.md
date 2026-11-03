@@ -64,3 +64,7 @@ JavaScript 语法检查通过；浏览器验证中英文切换、单篇搜索、
 新增两篇 2026 年论文及对应中英文动态，当前共 13 篇代表性论文、20 条动态。TIM 论文作者、卷号和出版信息已与 Crossref 的出版商记录核对（DOI: 10.1109/TIM.2026.3738112），5018517 按文章编号展示。FFAvatar 的作者与标题依据 arXiv:2606.30347，ECCV 2026 发表信息依据作者官方项目与代码仓库。两篇论文发表时间及对应动态均按作者确认标为 2026 年 10 月；作者列表以 Ke Xian* 标注，并注明 *corresponding author。两张新配图为文字封面，不是论文实验图。
 
 教学课程包含《人工智能概论〈A〉》，英文为 Introduction to Artificial Intelligence (A)。
+
+## 三篇成果与月份
+
+新增 Dynamic View Synthesis From Small Camera Motion Videos（TVCG，2025.10 正式卷期）、PoseMamba（AAAI 论文集，2025.04）、BokehMe++（2024.11 在线发表，2025.03 正式卷期）。以出版商及 Crossref 的发表月份为依据，保留原有录用动态并明确区分发表事件；原 2024.11 泛称散景论文录用的动态改为 BokehMe++ 在线发表动态。现有代表性论文 16 篇，动态 22 条。Dynamic View Synthesis 和 PoseMamba 的 Ke Xian 通讯作者身份按论文原文标注，未把 BokehMe++ 中的 Ke Xian 标为通讯作者。新增配图为文字封面。

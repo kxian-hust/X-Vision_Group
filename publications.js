@@ -40,6 +40,67 @@ window.PUBLICATIONS = [
     "date": "2026-10"
   },
   {
+    "id": "dynamic-small-motion-2025",
+    "title": "Dynamic View Synthesis From Small Camera Motion Videos",
+    "authors": "Huiqiang Sun, Xingyi Li, Juewen Peng, Liao Shen, Zhiguo Cao, Ke Xian*, and Guosheng Lin. (*corresponding author)",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics (TVCG), 31(10): 8174–8186, October 2025",
+    "year": 2025,
+    "date": "2025-10",
+    "image": "assets/dynamic-small-motion-2025.svg",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/TVCG.2025.3565642"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2506.23153"
+      }
+    ],
+    "topic": "3d"
+  },
+  {
+    "id": "posemamba-2025",
+    "title": "PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model",
+    "authors": "Yunlong Huang, Junshuo Liu, Ke Xian*, and Robert Caiming Qiu. (*corresponding author)",
+    "venue": "AAAI 2025, Vol. 39, No. 4: 3842–3850, April 2025",
+    "year": 2025,
+    "date": "2025-04",
+    "image": "assets/posemamba-2025.svg",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1609/aaai.v39i4.32401"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2408.03540"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/nankingjing/PoseMamba"
+      }
+    ],
+    "topic": "3d"
+  },
+  {
+    "id": "bokehme-plus-plus",
+    "title": "BokehMe++: Harmonious Fusion of Classical and Neural Rendering for Versatile Bokeh Creation",
+    "authors": "Juewen Peng, Zhiguo Cao, Xianrui Luo, Ke Xian, Wenfeng Tang, Jianming Zhang, and Guosheng Lin.",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 47(3): 1530–1547, March 2025 · First published online: November 2024",
+    "year": 2025,
+    "date": "2025-03",
+    "onlineDate": "2024-11",
+    "image": "assets/bokehme-plus-plus.svg",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/TPAMI.2024.3501739"
+      }
+    ],
+    "topic": "photography"
+  },
+  {
     "id": "nvds+",
     "title": "NVDS+: Towards Efficient and Versatile Neural Stabilizer for Video Depth Estimation",
     "authors": "Yiran Wang, Min Shi, Jiaqi Li, Chaoyi Hong, Zihao Huang, Juewen Peng, Zhiguo Cao, Jianming Zhang, Ke Xian*, and Guosheng Lin. (*corresponding author)",
